@@ -1,0 +1,26 @@
+.top-container{
+    padding-top: 10%
+}
+.general-container{
+     height: 100%;
+     font-weight: 100;
+}
+.general-container{
+    margin-top: 30px;
+}
+.general-container form label{
+    font-weight: 100;
+}
+.btn-orange{
+    background-color: #e8643e;
+    border: none;
+}
+.btn-orange:hover{
+    background-color: #dc5129;
+    border: none;
+}
+.title{
+    font-weight: 100;
+    text-align: center;
+    font-family: 'Bowlby One SC', cursive;
+}
